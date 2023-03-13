@@ -1,0 +1,6 @@
+2023-03-13 05:06:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found; SQL statement:
+select * from books where id=? [42102-214]
+2023-03-13 05:08:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOKS" not found; SQL statement:
+select * from books where id=? [42102-214]
